@@ -16,3 +16,6 @@ generate.QrCode(value, 400, File.Combine(img, "image.png"), "png")
 [javase-3.5.1.jar](https://repo1.maven.org/maven2/com/google/zxing/javase/3.5.1/javase-3.5.1.jar)
 
 [jZXing.jar](https://www.b4x.com/android/forum/attachments/jzxing-zip.139610/)
+
+## Preview
+<img src="https://github.com/pyhoon/qrcode-generator-server-b4j/raw/main/Preview.png" width="480" title="Preview" />
